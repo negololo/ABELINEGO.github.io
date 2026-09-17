@@ -1,0 +1,14 @@
+body{
+    font-family: Tahoma,Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    background-color:black;
+    margin: 50px;
+    background-image: url(IMG-20260821-WA0030\ -\ Copy.jpg);
+}
+nav ul{
+    list-style-type: square;
+    margin: 100px;
+    padding: 50px;
+    overflow: hidden;
+    background-color: rgb(172, 116, 116);
+}
